@@ -26,12 +26,12 @@ During this analysis, I will show a simple example to apply it in the AirBnB Sea
 ## Motivation <a name="motivation"></a>
 The AirBnB Seattle dataset has several features regarding the characteristics of room types in rent
 
-* What is the price relation between room type and suburb of the city?
+* What is the price relation between room type and a suburb of the city?
 * Is there a price difference between room type and bed type?
 * Are the number of bathrooms or bedrooms important perks to influence the price?
 * What are the top amenities offered?
 * What months are cheaper to visit Seattle?
-* What are features or characteristics that influence in the price of a room?
+* What are the features or characteristics that influence in the price of a room?
 
 ## Data Source and Descriptions <a name="data"></a>
 The [AirBnB Seattle Dataset](https://www.kaggle.com/airbnb/seattle/data) is the reference for this analysis
